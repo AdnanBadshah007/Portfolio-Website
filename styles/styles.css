@@ -25,4 +25,9 @@ header nav a {
     text-decoration: none;
     color: var(--pure);
 }
-
+.flex {
+    display: flex;
+}
+.justify {
+    justify-content: space-evenly;
+}
